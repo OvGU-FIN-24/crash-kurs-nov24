@@ -3,9 +3,10 @@
 ## Agenda
 
 - **Kurze Vorstellung** – 5 Minuten
+
 - **Repository bereitstellen**:
   - Cheatsheet und Agenda austeilen
-  - Kurze Einführung in Git
+  - Kurze Einführung in dieses Git
 
 - **Übungsaufgaben – Kleine Rätsel**:
   1. **Palindrom** [Davide]
