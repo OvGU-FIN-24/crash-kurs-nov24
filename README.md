@@ -23,6 +23,13 @@
   7. **Fakultät berechnen** [Marcel]
       - Thema: Rekursion und Alternative mit Schleifen
 
+  8. **NameFilter** 
+      - `/uebungen/NamenVergleichen`
+
+  9.  tbd 
+  10. tbd
+  11. tbd
+
 - **Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):
   1. Hilfsmethoden / Utils
   2. Level-Management
