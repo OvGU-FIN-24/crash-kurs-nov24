@@ -11,7 +11,7 @@
 - **Übungsaufgaben – Kleine Rätsel**:
   1. **Palindrom** 
      - Arrasys Rückwärts durchlaufen
-  2. **Length of Last Word** [Davide]
+  2. **Length of Last Word** 
     - Nach Zeichen im String suchen, Substring verwenden 
   3. **Remove Element** [Davide]
     - Elemente aus Array entfernen, Arrays bzgl. Länge verändern 
