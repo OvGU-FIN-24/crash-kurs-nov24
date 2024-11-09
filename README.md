@@ -9,7 +9,7 @@
   - Kurze Einführung in dieses Git
 
 - **Übungsaufgaben – Kleine Rätsel**:
-  1. **Palindrom** [Davide]
+  1. **Palindrom** 
      - Arrasys Rückwärts durchlaufen
   2. **Length of Last Word** [Davide]
     - Nach Zeichen im String suchen, Substring verwenden 
