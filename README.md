@@ -82,7 +82,9 @@
       - Themen: Arrays, Schleifen, Operatoren (kleinste und größte Elemente im Array finden und vergleichen)
   5. **Fakultät berechnen** 
       - Thema: Rekursion und Alternative mit Schleifen
-  6. **NameFilter** 
+  6. **Assert** 
+      - `/uebungen/tasks/assert`
+  7. **NameFilter** 
       - `/uebungen/tasks/nameFilter`
 
   99. Tag 2: Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):
