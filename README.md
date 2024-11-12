@@ -15,7 +15,7 @@
 
 - **AssertMethode selber schreiben** [Davide]
   - Assert Utils für schnelle und übersichtliche Testausgaben 
-  - @Assert
+  - Übungsaufgabe @Assert
 
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
@@ -34,7 +34,7 @@
 
 - **Fremde Funktionen / Utils**: [Davide]
   - String Utils verwenden um kleine Rätsel schnell zu lösen
-  - @LengthOfLastWord && ValidPalindrome 
+  - Übungsaufgabe @LengthOfLastWord && @ValidPalindrome 
   - Arrays - Math - Datetime (Methoden aus dem Baukasten)
   - @_livesession_
 
@@ -43,11 +43,11 @@
   - Arrays und Schleifen kombinieren
   - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
-  - @BestTimeToBuyAndSellStock @CanPlaceFlowers
+  - Übungsaufgabe @BestTimeToBuyAndSellStock && @CanPlaceFlowers
 
 - **Scanner**  [Davide]
   - Scanner und Textdateien
-  - @NameFilter
+  - Übungsaufgabe @NameFilter
 
 
 - **CSV-Reader**: [Davide]
