@@ -66,12 +66,15 @@
   - 2-dimensionale Arrays / doppelte Schleifen
   - @BestTimeToBuyAndSellStock @CanPlaceFlowers
 
-- **Scanner und CSV-Reader, JOptionPane**: [Davide]
-  1. `System.in` als Eingabequelle
-  2. Scanner und Textdateien
-  3. CSV-Datei lesen und ein Objekt daraus erstellen
+- **Scanner **  [Davide]
+  - Scanner und Textdateien
+  - @NameFilter
+
   4. Objekte in eine CSV-Tabelle schreiben
 
+**CSV-Reader**:
+-   CSV-Datei lesen und ein Objekt daraus erstellen. 
+-   CSV ausgeben
 
 - **Objektorientierte Programmierung (OOP)**: [Davide ab Tag2.]
   1. Kurze Einführung in die Theorie
