@@ -1,4 +1,4 @@
-# Java Cheatsheet
+# Java Cheatbook
 
 ## Inhaltsverzeichnis
 - [Grundlegende Syntax](#grundlegende-syntax)
