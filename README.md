@@ -34,7 +34,11 @@
   - Unterschiede zwischen Switch und If/Else
 
 - **Datentypen umwandeln**:  [Davide]
-  - `X.toX` für die Konvertierung von komplexen Datentypen und Casting bei primitiven Datentypen 
+  - `X.toX` für die Konvertierung von komplexen Datentypen und Casting bei primitiven Datentypen
+ 
+- **Rekursion**: [Marcel] 
+  - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
+
 - **Fremde Funktionen / Utils**:
   - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
 
@@ -54,10 +58,8 @@
 - **Objektorientierte Programmierung (OOP)**: [Davide ab Tag2.]
   1. Kurze Einführung in die Theorie
   2. OOP wird am zweiten Tag des Kurses vertieft
-
-- **Rekursion**: [Marcel] 
-  - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
-
+ 
+    
 - **Debugger und System.out.println (Souts)**: [Marcel]
   - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
 
