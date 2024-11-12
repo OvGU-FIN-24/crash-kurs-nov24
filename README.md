@@ -1,47 +1,21 @@
 # Crashkurs
 
-## Agenda
+## Aufgaben
+
+
+
+
+## Agenda 
 
 - **Kurze Vorstellung** – 5 Minuten
 
 - **Repository bereitstellen**:
   - Cheatsheet und Agenda austeilen
-  - Kurze Einführung in dieses Git
+  - Dabei: Kurze Einführung in dieses Git (clonen, branchen)
 
-- **Übungsaufgaben – Kleine Rätsel**:
-  1. **Palindrom** 
-     - Arrasys Rückwärts durchlaufen
-  2. **Length of Last Word** 
-    - Nach Zeichen im String suchen, Substring verwenden 
-  3. **Remove Element** [Davide]
-    - Elemente aus Array entfernen, Arrays bzgl. Länge verändern 
-  4. **String Compression** [Davide]
-      - Themen: Arrays, Schleifen, Arrays konvertieren (Elemente in einem Array ersetzen, neues Array erstellen und zurückgeben)
-  5. **Can Place Flowers** [Marcel]
-      - Thema: Array-Index +/-1 Abfragen
-  6. **Best Time to Buy and Sell Stock** [Marcel]
-      - Themen: Arrays, Schleifen, Operatoren (kleinste und größte Elemente im Array finden und vergleichen)
-  7. **Fakultät berechnen** [Marcel]
-      - Thema: Rekursion und Alternative mit Schleifen
-
-  8. **NameFilter** 
-      - `/uebungen/tasks/NamenVergleichen`
-
-  9.  tbd 
-  10. tbd
-  11. tbd
-
-- **Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):
-  1. Hilfsmethoden / Utils
-  2. Level-Management
-
-
-
-## Themen
-
-- **AssertMethode selber schreiben**
+- **AssertMethode selber schreiben** [Davide]
   - Assert Utils für schnelle und übersichtliche Testausgaben 
-  - @XXXXXX
+  - @Assert
 
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
@@ -52,16 +26,17 @@
   - Umwandlung von Zeichenketten in Zahlen, abfangen von Fehlern 
   - Einfache Dialoge mit JOptionPane
   - Übungsaufgabe @XXXXXX
-
-
  
 - **Rekursion**: [Marcel] 
   - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
+  - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
   - Übungsaufgabe @Fakultaet
 
 - **Fremde Funktionen / Utils**: [Davide]
-  - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
-  -  
+  - String Utils verwenden um kleine Rätsel schnell zu lösen
+  - @LengthOfLastWord && ValidPalindrome 
+  - Arrays - Math - Datetime (Methoden aus dem Baukasten)
+  - @_livesession_
 
 - **Arrays**: [Marcel]
   - Arrays direkt initialisieren
@@ -70,23 +45,22 @@
   - 2-dimensionale Arrays / doppelte Schleifen
   - @BestTimeToBuyAndSellStock @CanPlaceFlowers
 
-- **Scanner **  [Davide]
+- **Scanner**  [Davide]
   - Scanner und Textdateien
   - @NameFilter
 
-  4. Objekte in eine CSV-Tabelle schreiben
 
-**CSV-Reader**:
--   CSV-Datei lesen und ein Objekt daraus erstellen. 
--   CSV ausgeben
+- **CSV-Reader**: [Davide]
+  -   CSV-Datei lesen und ein Objekt daraus erstellen. 
+  -   CSV ausgeben
+  -   @tbd 
 
-- **Objektorientierte Programmierung (OOP)**: [Davide ab Tag2.]
-  1. Kurze Einführung in die Theorie
-  2. OOP wird am zweiten Tag des Kurses vertieft
+- **Objektorientierte Programmierung (OOP)**: [tbd]
+  - Kurze Einführung in die Theorie
+  - OOP wird am zweiten Tag des Kurses vertieft
+  - @CliZelda (_nicht implementiert, nicht vorbereitet_)
  
     
-- **Debugger und System.out.println (Souts)**: [Marcel]
-  - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
 
 
 ## Nützliche Links
@@ -96,12 +70,23 @@
 - [GitHub Classroom: Git Getting Started](https://classroom.github.com/classrooms/187568833-ovgu-fin-24-einfinf/assignments/git-getting-started)
 
 
-# Todos: 
 
+- **Übungsaufgaben**:
+  1. **Palindrom** 
+     - Arrasys Rückwärts durchlaufen
+  2. **Length of Last Word** 
+    - Nach Zeichen im String suchen, Substring verwenden 
+  3. **Can Place Flowers** 
+      - Thema: Array-Index +/-1 Abfragen
+  4. **Best Time to Buy and Sell Stock** 
+      - Themen: Arrays, Schleifen, Operatoren (kleinste und größte Elemente im Array finden und vergleichen)
+  5. **Fakultät berechnen** 
+      - Thema: Rekursion und Alternative mit Schleifen
+  6. **NameFilter** 
+      - `/uebungen/tasks/nameFilter`
 
-3. leetcode aufgaben implementieren [s.o.]
-4. weitere aufgaben finden [beide - jeder ca. 2 ]
-5. Alle Links hinzufügen [beide]
+  99. Tag 2: Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):
+    1. Hilfsmethoden / Utils
+    3. Level-Management
+    2. GUI
 
-6. Optional (2. Tag Spiel o.ä. planen und umsetzten)
-Z. Einmal alles durchproben + Technik 
