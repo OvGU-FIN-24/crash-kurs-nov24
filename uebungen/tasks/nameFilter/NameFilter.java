@@ -19,7 +19,7 @@ public class NameFilter {
 
         List<String> names = new ArrayList<>(); 
 
-        for (int i = 0; scanner.hasNextLine(); i ++) {
+        while (scanner.hasNextLine()) {
             names.add(scanner.nextLine().trim());
         }
  
