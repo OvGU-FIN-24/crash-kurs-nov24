@@ -32,12 +32,14 @@
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
   - Unterschiede zwischen Switch und If/Else
+  - Übungsaufgabe @SchereSteinPapier
 
 - **Datentypen umwandeln**:  [Davide]
   - `X.toX` für die Konvertierung von komplexen Datentypen und Casting bei primitiven Datentypen
  
 - **Rekursion**: [Marcel] 
   - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
+  - Übungsaufgabe @Fakultät
 
 - **Fremde Funktionen / Utils**:
   - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
@@ -47,6 +49,7 @@
   - Arrays und Schleifen kombinieren
   - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
+  - @BestTimeToBuyAndSellStock @CanPlaceFlowers
 
 - **Scanner und CSV-Reader, JOptionPane**: [Davide]
   1. `System.in` als Eingabequelle
