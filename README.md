@@ -25,7 +25,7 @@
 - **Datentypen - Umwandlung - Try/Catch**:  [Davide]
   - Umwandlung von Zeichenketten in Zahlen, abfangen von Fehlern 
   - Einfache Dialoge mit JOptionPane
-  - Übungsaufgabe @XXXXXX
+  - Übungsaufgabe @SimpleCalculator
  
 - **Rekursion**: [Marcel] 
   - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
@@ -68,6 +68,7 @@
 - [LeetCode](https://leetcode.com/)
 - [Hendrik Schmitt Java Tutorial](https://www.youtube.com/watch?v=8baa27uPo0U&list=PLdRbhbTUg6E6yb8dp7ty2Uw3FggKDDgjT)
 - [GitHub Classroom: Git Getting Started](https://classroom.github.com/classrooms/187568833-ovgu-fin-24-einfinf/assignments/git-getting-started)
+- [Java Cheatbook](https://github.com/OvGU-FIN-24/crash-kurs-nov24/blob/results/resources/java_cheatbook.md)
 
 
 
@@ -84,10 +85,12 @@
       - Thema: Rekursion und Alternative mit Schleifen
   6. **Assert** 
       - `/uebungen/tasks/assert`
-  7. **NameFilter** 
+  7. **SimpleCalculator** 
+      - `/uebungen/tasks/simpleCalculator`
+  8. **NameFilter** 
       - `/uebungen/tasks/nameFilter`
 
-  99. Tag 2: Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):
+  99. __Tag 2: Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):__
     1. Hilfsmethoden / Utils
     3. Level-Management
     2. GUI
