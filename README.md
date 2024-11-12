@@ -29,6 +29,10 @@
 
 ## Themen
 
+- **If-Else/Switch**: [Marcel]
+  - Verwendung von Switch als Input-Reader
+  - Unterschiede zwischen Switch und If/Else
+
 - **Datentypen umwandeln**:  [Davide]
   - `X.toX` für die Konvertierung von komplexen Datentypen und Casting bei primitiven Datentypen 
 - **Fremde Funktionen / Utils**:
@@ -39,10 +43,6 @@
   - Arrays und Schleifen kombinieren
   - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
-
-- **Switch**: [Marcel]
-  - Verwendung von Switch als Input-Reader
-  - Unterschiede zwischen Switch und If/Else
 
 - **Scanner und CSV-Reader, JOptionPane**: [Davide]
   1. `System.in` als Eingabequelle
