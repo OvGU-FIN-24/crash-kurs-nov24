@@ -39,6 +39,10 @@
 
 ## Themen
 
+- **AssertMethode selber schreiben**
+  - Assert Utils für schnelle und übersichtliche Testausgaben 
+  - @XXXXXX
+
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
   - Unterschiede zwischen Switch und If/Else
@@ -53,7 +57,7 @@
  
 - **Rekursion**: [Marcel] 
   - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
-  - Übungsaufgabe @Fakultät
+  - Übungsaufgabe @Fakultaet
 
 - **Fremde Funktionen / Utils**: [Davide]
   - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
@@ -84,17 +88,17 @@
 - **Debugger und System.out.println (Souts)**: [Marcel]
   - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
 
+
 ## Nützliche Links
 
 - [LeetCode](https://leetcode.com/)
-- [Hendrik Schmitt Java Tutorial](#)
-- [GitHub Classroom: Git Getting Started](#)
+- [Hendrik Schmitt Java Tutorial](https://www.youtube.com/watch?v=8baa27uPo0U&list=PLdRbhbTUg6E6yb8dp7ty2Uw3FggKDDgjT)
+- [GitHub Classroom: Git Getting Started](https://classroom.github.com/classrooms/187568833-ovgu-fin-24-einfinf/assignments/git-getting-started)
 
 
 # Todos: 
 
-1. ALLE BISHERIGEN DATEIN IN EIN GIT PUSHEN (ABER NICHT IN MAIN!! ) [Davide]
-2. Aufgabe Name Filter implementieren [Davide]
+
 3. leetcode aufgaben implementieren [s.o.]
 4. weitere aufgaben finden [beide - jeder ca. 2 ]
 5. Alle Links hinzufügen [beide]
