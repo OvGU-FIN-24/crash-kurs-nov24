@@ -1,13 +1,9 @@
 # Crashkurs
 
-## Aufgaben
-
-
-
-
 ## Agenda 
 
-- **Kurze Vorstellung** – 5 Minuten
+#### Kurze Vorstellung** 
+  - 5 Minuten
 
 - **Repository bereitstellen**:
   - Cheatsheet und Agenda austeilen
@@ -15,26 +11,27 @@
 
 - **AssertMethode selber schreiben** [Davide]
   - Assert Utils für schnelle und übersichtliche Testausgaben 
-  - Übungsaufgabe @Assert
+  - @Assert
 
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
   - Unterschiede zwischen Switch und If/Else
-  - Übungsaufgabe @SchereSteinPapier
+  - @SchereSteinPapier
 
 - **Datentypen - Umwandlung - Try/Catch**:  [Davide]
   - Umwandlung von Zeichenketten in Zahlen, abfangen von Fehlern 
   - Einfache Dialoge mit JOptionPane
-  - Übungsaufgabe @SimpleCalculator
+  - @SimpleCalculator
  
 - **Rekursion**: [Marcel] 
   - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
   - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
-  - Übungsaufgabe @Fakultaet
+  - @Fakultaet
 
-- **Fremde Funktionen / Utils**: [Davide]
+- **Utils**: [Davide]
   - String Utils verwenden um kleine Rätsel schnell zu lösen
-  - Übungsaufgabe @LengthOfLastWord && @ValidPalindrome 
+  - @LengthOfLastWord && @ValidPalindrome 
+  
   - Arrays - Math - Datetime (Methoden aus dem Baukasten)
   - @_livesession_
 
@@ -43,25 +40,26 @@
   - Arrays und Schleifen kombinieren
   - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
-  - Übungsaufgabe @BestTimeToBuyAndSellStock && @CanPlaceFlowers
+  - @BestTimeToBuyAndSellStock && @CanPlaceFlowers
 
 - **Scanner**  [Davide]
   - Scanner und Textdateien
-  - Übungsaufgabe @NameFilter
+  - @NameFilter
 
 
 - **CSV-Reader**: [Davide]
-  -   CSV-Datei lesen und ein Objekt daraus erstellen. 
-  -   CSV ausgeben
-  -   @tbd 
+  - CSV-Datei einlesen und Objekte daraus erstellen.
+  - Datensätze manipulieren. 
+  - Neue CSV-Datei ablegen.
+  - @PeopleProcessor
 
 - **Objektorientierte Programmierung (OOP)**: [tbd]
   - Kurze Einführung in die Theorie
   - OOP wird am zweiten Tag des Kurses vertieft
   - @CliZelda (_nicht implementiert, nicht vorbereitet_)
  
-    
-
+ ---
+ 
 
 ## Nützliche Links
 
@@ -71,27 +69,30 @@
 - [Java Cheatbook](https://github.com/OvGU-FIN-24/crash-kurs-nov24/blob/results/resources/java_cheatbook.md)
 
 
+---
 
-- **Übungsaufgaben**:
+## Übungsaufgaben**:
   1. **Palindrom** 
-     - Arrasys Rückwärts durchlaufen
+    - Arrasys Rückwärts durchlaufen
   2. **Length of Last Word** 
     - Nach Zeichen im String suchen, Substring verwenden 
   3. **Can Place Flowers** 
-      - Thema: Array-Index +/-1 Abfragen
+    - Thema: Array-Index +/-1 Abfragen
   4. **Best Time to Buy and Sell Stock** 
-      - Themen: Arrays, Schleifen, Operatoren (kleinste und größte Elemente im Array finden und vergleichen)
+    - Themen: Arrays, Schleifen, Operatoren (kleinste und größte Elemente im Array finden und vergleichen)
   5. **Fakultät berechnen** 
-      - Thema: Rekursion und Alternative mit Schleifen
+    - Thema: Rekursion und Alternative mit Schleifen
   6. **Assert** 
-      - `/uebungen/tasks/assert`
+    - `/uebungen/tasks/assert`
   7. **SimpleCalculator** 
-      - `/uebungen/tasks/simpleCalculator`
+    - `/uebungen/tasks/simpleCalculator`
   8. **NameFilter** 
-      - `/uebungen/tasks/nameFilter`
+    - `/uebungen/tasks/nameFilter`
+  9. **PeopleProcessor** 
+    - `/uebungen/tasks/peopleProcessor`
 
   99. __Tag 2: Kleine Anwendung mit Konsoleninterface** (z.B. Spiel oder Mediathek):__
-    1. Hilfsmethoden / Utils
-    3. Level-Management
-    2. GUI
+    - Hilfsmethoden / Utils
+    - Level-Management
+    - GUI
 
