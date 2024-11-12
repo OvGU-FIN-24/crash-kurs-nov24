@@ -34,12 +34,10 @@
 - **Fremde Funktionen / Utils**:
   - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
 
-- **Modulo**: [Davide]
-  - Jedes x-te Element bearbeiten
-
 - **Arrays**: [Marcel]
   - Arrays direkt initialisieren
   - Arrays und Schleifen kombinieren
+  - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
 
 - **Switch**: [Marcel]
