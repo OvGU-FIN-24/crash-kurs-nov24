@@ -25,7 +25,7 @@
       - Thema: Rekursion und Alternative mit Schleifen
 
   8. **NameFilter** 
-      - `/uebungen/NamenVergleichen`
+      - `/uebungen/tasks/NamenVergleichen`
 
   9.  tbd 
   10. tbd
@@ -35,39 +35,49 @@
   1. Hilfsmethoden / Utils
   2. Level-Management
 
+
+
 ## Themen
 
-- **Datentypen umwandeln**:  [Davide]
-  - `X.toX` für die Konvertierung von komplexen Datentypen und Casting bei primitiven Datentypen 
-- **Fremde Funktionen / Utils**:
-  - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
+- **If-Else/Switch**: [Marcel]
+  - Verwendung von Switch als Input-Reader
+  - Unterschiede zwischen Switch und If/Else
+  - Übungsaufgabe @SchereSteinPapier
 
-- **Modulo**: [Davide]
-  - Jedes x-te Element bearbeiten
+- **Datentypen - Umwandlung - Try/Catch**:  [Davide]
+  - Umwandlung von Zeichenketten in Zahlen, abfangen von Fehlern 
+  - Einfache Dialoge mit JOptionPane
+  - Übungsaufgabe @XXXXXX
+
+
+ 
+- **Rekursion**: [Marcel] 
+  - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
+  - Übungsaufgabe @Fakultät
+
+- **Fremde Funktionen / Utils**: [Davide]
+  - `Arrays`, `Math`, `String`, `Date` und `Time`, `Substring`
+  -  
 
 - **Arrays**: [Marcel]
   - Arrays direkt initialisieren
   - Arrays und Schleifen kombinieren
+  - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
-
-- **Switch**: [Marcel]
-  - Verwendung von Switch als Input-Reader
-  - Unterschiede zwischen Switch und If/Else
+  - @BestTimeToBuyAndSellStock @CanPlaceFlowers
 
 - **Scanner und CSV-Reader, JOptionPane**: [Davide]
   1. `System.in` als Eingabequelle
   2. Scanner und Textdateien
   3. CSV-Datei lesen und ein Objekt daraus erstellen
   4. Objekte in eine CSV-Tabelle schreiben
-  5. Einfache Dialoge mit JOptionPane
+
 
 - **Objektorientierte Programmierung (OOP)**: [Davide ab Tag2.]
   1. Kurze Einführung in die Theorie
   2. OOP wird am zweiten Tag des Kurses vertieft
-
-- **Rekursion**: [Marcel] 
-  - Übung mit einfacher Rekursion (z.B. Zahl wird immer um 1 reduziert, bis sie 0 erreicht – Debugger-Einsatz)
-
+ 
+    
 - **Debugger und System.out.println (Souts)**: [Marcel]
   - Tipps und Techniken zur effektiven Fehlerbehebung mit Souts und Debugger
 
