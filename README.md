@@ -13,7 +13,7 @@
      - Arrasys Rückwärts durchlaufen
   2. **Length of Last Word** 
     - Nach Zeichen im String suchen, Substring verwenden 
-  3. **Remove Element** [Davide]
+  3. **Remove Element**
     - Elemente aus Array entfernen, Arrays bzgl. Länge verändern 
   4. **String Compression** [Davide]
       - Themen: Arrays, Schleifen, Arrays konvertieren (Elemente in einem Array ersetzen, neues Array erstellen und zurückgeben)
