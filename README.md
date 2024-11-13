@@ -63,7 +63,7 @@
 
 ## Nützliche Links
 
-- [LeetCode]([https://leetcode.com/](https://leetcode.com/problem-list/a3mmw8fj/))
+- [LeetCode](https://leetcode.com/problem-list/a3mmw8fj/)
 - [Hendrik Schmitt Java Tutorial](https://www.youtube.com/watch?v=8baa27uPo0U&list=PLdRbhbTUg6E6yb8dp7ty2Uw3FggKDDgjT)
 - [GitHub Classroom: Git Getting Started](https://classroom.github.com/classrooms/187568833-ovgu-fin-24-einfinf/assignments/git-getting-started)
 - [Java Cheatbook](https://github.com/OvGU-FIN-24/crash-kurs-nov24/blob/results/resources/java_cheatbook.md)
