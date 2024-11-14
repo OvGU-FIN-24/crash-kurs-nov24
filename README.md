@@ -12,7 +12,7 @@
 - **If-Else/Switch**: [Marcel]
   - Verwendung von Switch als Input-Reader
   - Unterschiede zwischen Switch und If/Else
-  - @SchereSteinPapier
+  - @uebungen.SchereSteinPapier
 
 - **AssertMethode selber schreiben** [Davide]
   - Assert Utils für schnelle und übersichtliche Testausgaben 
@@ -40,7 +40,7 @@
   - Arrays und Schleifen kombinieren
   - Jedes x-te Element bearbeiten
   - 2-dimensionale Arrays / doppelte Schleifen
-  - @BestTimeToBuyAndSellStock && @CanPlaceFlowers
+  - @BestTimeToBuyAndSellStock && @leetcode.CanPlaceFlowers
 
 - **Scanner**  [Davide]
   - Scanner und Textdateien

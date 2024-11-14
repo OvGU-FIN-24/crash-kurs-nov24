@@ -1,3 +1,5 @@
+package uebungen;
+
 import java.util.Scanner;
 
 public class SchereSteinPapier {
