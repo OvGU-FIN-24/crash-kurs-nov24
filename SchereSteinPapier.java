@@ -6,6 +6,7 @@ public class SchereSteinPapier {
     System.out.println("Schere [1] Stein [2] Papier [3]");
     Scanner s = new Scanner(System.in);
     int decision = s.nextInt();
+    // Kommentar
 
     //Guard statement - Beende das Spiel wenn User zu dumm ist.
     if (decision < 1 || decision > 3 ) {
